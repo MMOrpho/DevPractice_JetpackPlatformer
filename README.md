@@ -20,6 +20,12 @@ Key features:
 ![Gameplay Preview](Media/Vehicle%20Enter+Exit+Drive.gif)
 
 
+- Animations and BlendSpaces
+
+
+![Gameplay Preview](Media/Animation_BlendSpace.gif)
+
+
 - Game Win and Lose conditions
 
 
